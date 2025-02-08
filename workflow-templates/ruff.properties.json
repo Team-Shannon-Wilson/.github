@@ -1,0 +1,11 @@
+{
+    "name": "Ruff Linting Workflow",
+    "description": "Shannon & Wilson Linting Workflow.",
+    "categories": [
+        "code-quality",
+	  "code-review"
+    ],
+    "filePatterns": [
+        "pyproject.toml$"
+    ]
+}
