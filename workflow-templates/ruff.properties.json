@@ -4,5 +4,9 @@
     "categories": [
         "code-quality",
 	  "code-review"
+    ],
+    "filePatterns": [
+        "pyproject.toml$",
+	  ".*.py$"
     ]
 }
