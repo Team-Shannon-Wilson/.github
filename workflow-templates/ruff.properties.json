@@ -1,11 +1,13 @@
 {
     "name": "Ruff Linting Workflow",
-    "description": "Shannon & Wilson Linting Workflow.",
+    "description": "Shannon & Wilson Linting Workflow. Automatically verifies code quality
+     			  and enforces code styles.",
     "categories": [
         "code-quality",
 	  "code-review"
     ],
     "filePatterns": [
-        "pyproject.toml$"
+        "pyproject.toml$",
+	  "*.py"
     ]
 }
